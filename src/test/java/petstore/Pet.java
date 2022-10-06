@@ -8,6 +8,7 @@ import static org.hamcrest.Matchers.*;
 public class Pet {
     String uri = "https://petstore.swagger.io/v2";
 
+    //teste git
     @DisplayName("Cadastrar novo Pet a Loja")
     @Test
     public void cadastroPet(){
